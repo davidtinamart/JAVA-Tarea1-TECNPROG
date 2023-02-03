@@ -3,7 +3,7 @@ DescripcionTarea1
 
 Nota: Repositorio: https://github.com/davidtinamart/Tarea1_Tecnicas_Programacion.git
 
-__ Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
+__Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:
 
 * ¿Qué algoritmos usas en tu vida cotidiana? ¿Piensas que podrías escribir un programa para hacerlos más eficientes?
@@ -15,6 +15,7 @@ otro fijo y ver si merece la pena subir más desnivel y acortar la distancia por
 
 
 * ¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
+
 Últimamente en las redes sociales, cualquier tipo de contenido que sigo o que busco intencionadamente aunque sea solo por curiosidad, algún algoritmo insiste en que ese tipo de contenido aparezca más veces, al igual cuando pruebo un juego desde la App Store de una categoría, esta misma me recomiende más juegos de esta categoria según mis horas de juego. 
 
 
