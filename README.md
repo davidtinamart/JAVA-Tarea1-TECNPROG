@@ -1,4 +1,4 @@
-# Tarea1_Tecnicas_Programacion
+# Tarea1_Tecnicas_Programación
 DescripcionTarea1
 
 Nota: Repositorio: https://github.com/davidtinamart/Tarea1_Tecnicas_Programacion.git
